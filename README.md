@@ -1,5 +1,5 @@
 # Network-Design-Proposal-For-College
-This project involves the design of a network infrastructure for a College.Project has been implemented using virtal networking devices,with the help of a Cisco Packet Tracer.
+This project involves the design of a network infrastructure for a College.Project has been implemented using virtual networking devices,with the help of a Cisco Packet Tracer.
 
 ![maxresdefault](https://user-images.githubusercontent.com/42551738/120103642-48fc7500-c16e-11eb-9d2b-0a44a08aea6e.jpg)
 ![new](https://user-images.githubusercontent.com/42551738/120103644-4ac63880-c16e-11eb-9b08-1df5cfd47dbb.png)
